@@ -13,12 +13,14 @@ All data is stored in your browser's LocalStorage, ensuring your privacy as no d
 
 # Features
 
-Currently the only feature is the highlighting of the new topics with an ugly, dashed, red outline.
+Currently the only feature is the highlighting of the new topics with an ugly, dashed, red outline, as well as displaying the number of detected changes in a yellow box.
+
+For the feature changes and bug fixes between versions of this project, please see [CHANGELOG.md](CHANGELOG.md).
 
 # Installation
 
 1. **Install TamperMonkey:** First, install the TamperMonkey extension from [TamperMonkey's website](https://www.tampermonkey.net/) for your browser.
-2. **Add the Script:** Click here to see the [raw script page](https://raw.githubusercontent.com/sszigeti/X-Twitter-Interests-audit-tool/master/xtwitter-interests-admin-tool.js). Copy everything, then click the "Create New Script" command in the TamperMonkey extension's menu. Paste the copied script to the editor, replacing the default template text.
+2. **Add the Script:** Click here to see the [raw script page](https://raw.githubusercontent.com/sszigeti/X-Twitter-Interests-audit-tool/master/xtwitter-interests-audit-tool.js). Copy everything, then click the "Create New Script" command in the TamperMonkey extension's menu. Paste the copied script to the editor, replacing the default template text.
 3. **Visit the Interests Page:** Navigate to [Your Twitter Data Interests Page on X/Twitter](https://twitter.com/settings/your_twitter_data/twitter_interests). Any new topics added since your last visit will now be highlighted. (You don't need to reinstall this script, it'll keep on working each time you visit your Twitter Interests page.)
 
 # Contributing
