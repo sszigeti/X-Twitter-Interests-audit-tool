@@ -4,7 +4,7 @@
 // @version      2024-04-10
 // @description  A slightly convenient way to spot and deactivate the ghoulishly irrelevant stuff added by X/Twitter to this continuously growing list.
 // @author       SandorHQ
-// @match        https://twitter.com/settings/your_twitter_data/twitter_interests
+// @match        https://x.com/settings/your_twitter_data/twitter_interests
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=twitter.com
 // @grant        none
 // ==/UserScript==
